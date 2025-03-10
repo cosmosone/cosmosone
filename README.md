@@ -2,7 +2,7 @@
 
 👀 I'm a solo developer creating apps and services to help people connect online using AI technology.
 
-🌱 I'm currently learning advanced AI implementation techniques for immersive virtual environments and exploring new frameworks for building more intuitive digital communication platforms.
+🌱 I'm currently learning advanced AI implementation techniques for exploring new frameworks for building more intuitive digital communication platforms and immersive virtual environments.
 
 💞️ I'm looking to collaborate on innovative projects that bridge the gap between technology and human connection - particularly open-source initiatives focused on AI solutions, metaverse development, or community-building platforms.
 
